@@ -24,3 +24,12 @@ markindv58/devops-intern-test:latest
 ```text
 kubernetes/
 ```
+
+## Архитектура
+
+![Architecture](docs/architecture.png)
+
+Исходник схемы:
+
+```text
+docs/architecture.drawio
