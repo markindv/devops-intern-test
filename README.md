@@ -16,6 +16,7 @@
 
 ```text
 markindv58/devops-intern-test:latest
+```
 
 ## Kubernetes
 
@@ -33,3 +34,14 @@ kubernetes/
 
 ```text
 docs/architecture.drawio
+```
+
+## Результаты работы
+
+### Приложение в браузере
+
+![Hello World](docs/screenshots/hello-world-browser.png)
+
+### Kubernetes
+
+![Kubernetes status](docs/screenshots/kubernetes-status.png)
